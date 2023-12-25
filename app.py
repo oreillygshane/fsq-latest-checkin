@@ -2,7 +2,7 @@ import requests
 import json
 import logging
 
-api_key = 'fsq3hWTfV6RzWgYpedrH+1UYPwzhrUaG8DhNIN0eOqKcGUc='
+api_key = 'API_KEY'
 
 def setup_logging():
     logging.basicConfig(filename='checkin_log.log', level=logging.INFO, 
